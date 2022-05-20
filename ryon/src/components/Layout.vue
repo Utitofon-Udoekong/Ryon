@@ -19,7 +19,7 @@ const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
         <img
           alt="Twitter Logo"
           className="twitter-logo"
-          src="/twitter-logo.svg"
+          src="@/assets/twitter-logo.png"
         />
         <a
           className="footer-text"
